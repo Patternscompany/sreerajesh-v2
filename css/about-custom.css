@@ -1004,3 +1004,7 @@ footer p {
         margin-bottom: 1em;
     }
 }
+/* Custom About Page Header Image */
+#page_header {
+    background-image: url(../rajeshimedia/aboutbanne.jpeg);
+}
