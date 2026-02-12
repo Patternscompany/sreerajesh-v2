@@ -36,7 +36,7 @@
 }
 
 .w3l-footer-16 li a:hover {
-    color: #fff;
+    color: #fff !important;
 }
 
 .footer-botm p span {
